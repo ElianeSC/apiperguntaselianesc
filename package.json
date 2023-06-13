@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "um api utilizado para quiz",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Joao henrique",
   "license": "ISC",
   "dependencies": {
