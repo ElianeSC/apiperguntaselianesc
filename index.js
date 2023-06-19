@@ -10,7 +10,7 @@ const port = process.env.PORT || 3000
 
 const connection = mysql.createConnection({
     host: 'bdquizzeliane.mysql.database.azure.com',
-    user: 'quizz'',
+    user: 'quizz',
     password: 'Senac@2020',
     database: 'quizz'
 });
